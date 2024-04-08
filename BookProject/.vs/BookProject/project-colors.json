@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe03d606-f8a1-45c0-8a92-d163682f2927": {
+      "ProjectGuid": "fe03d606-f8a1-45c0-8a92-d163682f2927",
+      "DisplayName": "BookProject.Common",
+      "ColorIndex": 0
+    },
+    "00e91f1b-fa0e-490d-9ee4-85de7ee0696e": {
+      "ProjectGuid": "00e91f1b-fa0e-490d-9ee4-85de7ee0696e",
+      "DisplayName": "BookProject.Data",
+      "ColorIndex": 1
+    },
+    "40642235-bb12-4763-b41e-3700ab442775": {
+      "ProjectGuid": "40642235-bb12-4763-b41e-3700ab442775",
+      "DisplayName": "BookProject.Service",
+      "ColorIndex": 2
+    },
+    "c4027287-25d9-4ee9-a6ba-ca85743aaa63": {
+      "ProjectGuid": "c4027287-25d9-4ee9-a6ba-ca85743aaa63",
+      "DisplayName": "BookProject.Web",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "902dc50f-9d1f-4d7e-9b7a-7903986da51c": {
+      "ProjectGuid": "902dc50f-9d1f-4d7e-9b7a-7903986da51c",
+      "DisplayName": "BookProject.Migration",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

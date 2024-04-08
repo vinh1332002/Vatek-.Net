@@ -1,0 +1,17 @@
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\bin\Debug\net6.0\BookProject.Service.deps.json
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\bin\Debug\net6.0\BookProject.Service.dll
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\bin\Debug\net6.0\ref\BookProject.Service.dll
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\bin\Debug\net6.0\BookProject.Service.pdb
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\bin\Debug\net6.0\BookProject.Common.dll
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\bin\Debug\net6.0\BookProject.Data.dll
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\bin\Debug\net6.0\BookProject.Common.pdb
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\bin\Debug\net6.0\BookProject.Data.pdb
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\obj\Debug\net6.0\BookProject.Service.csproj.AssemblyReference.cache
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\obj\Debug\net6.0\BookProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\obj\Debug\net6.0\BookProject.Service.AssemblyInfoInputs.cache
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\obj\Debug\net6.0\BookProject.Service.AssemblyInfo.cs
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\obj\Debug\net6.0\BookProject.Service.csproj.CoreCompileInputs.cache
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\obj\Debug\net6.0\BookProject.Service.csproj.CopyComplete
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\obj\Debug\net6.0\BookProject.Service.dll
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\obj\Debug\net6.0\ref\BookProject.Service.dll
+D:\FILENAYCHUAJAVVIDEO4GB\C sharp\Vatek\Day3\BookProject\BookProject.Service\obj\Debug\net6.0\BookProject.Service.pdb

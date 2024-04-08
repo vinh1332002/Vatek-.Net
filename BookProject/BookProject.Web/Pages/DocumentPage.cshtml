@@ -1,0 +1,66 @@
+﻿@page
+@using BookProject.Web.Pages
+@model DocumentPageModel
+
+@{
+	ViewData["Title"] = "Document Pages";
+}
+
+<h1>List of Document Pages</h1>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				Id
+			</th>
+			<th>
+				CreatedAt
+			</th>
+			<th>
+				UpdatedAt
+			</th>
+			<th>
+				Page
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.DocumentPage)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Id)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.CreatedAt)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.UpdatedAt)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Page)
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script>
+	let connection = new signalR.HubConnectionBuilder().withUrl("/signal").build();
+
+	connection.on("refreshDocumentPage", () => {
+		console.log("There is a document Page that has been created or updated or deleted !");
+
+		setTimeout(() => {
+			window.location.reload();
+			}, 3000);
+		});
+
+	connection.start().then(() => {
+		console.log("SignalR connection established.");
+	}).catch(err => {
+		console.error(err.toString());
+	});
+</script>
