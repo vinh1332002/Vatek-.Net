@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kmeYd4tlvHwm0U+iQRnitnsVH7mHzZ6YEM5bEnGoKqkOdw6Kq+fLJa7TAVQBx8mFzgUiCXmPofnIIRFXe/kVag==",
+  "dgSpecHash": "nkQTlLXOoxkB2elUtJrrlzsb3U/chP3Rb6mlsIisRtB4Une6/fLHGSKH4OPS4ALCD/SqMRE1yk7T5/j6MDzbaQ==",
   "success": true,
-  "projectFilePath": "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\BookProject\\BookProject.Service\\BookProject.Service.csproj",
+  "projectFilePath": "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\Vatek-.Net\\BookProject\\BookProject.Service\\BookProject.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\aspose.pdf\\24.3.0\\aspose.pdf.24.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\aspose.words\\24.3.0\\aspose.words.24.3.0.nupkg.sha512",

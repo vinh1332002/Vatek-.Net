@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\BookProject\\BookProject.Common\\BookProject.Common.csproj": {}
+    "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\Vatek-.Net\\BookProject\\BookProject.Common\\BookProject.Common.csproj": {}
   },
   "projects": {
-    "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\BookProject\\BookProject.Common\\BookProject.Common.csproj": {
+    "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\Vatek-.Net\\BookProject\\BookProject.Common\\BookProject.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\BookProject\\BookProject.Common\\BookProject.Common.csproj",
+        "projectUniqueName": "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\Vatek-.Net\\BookProject\\BookProject.Common\\BookProject.Common.csproj",
         "projectName": "BookProject.Common",
-        "projectPath": "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\BookProject\\BookProject.Common\\BookProject.Common.csproj",
+        "projectPath": "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\Vatek-.Net\\BookProject\\BookProject.Common\\BookProject.Common.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\BookProject\\BookProject.Common\\obj\\",
+        "outputPath": "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\Vatek-.Net\\BookProject\\BookProject.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

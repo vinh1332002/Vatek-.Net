@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7yqC86T5yzg8H8TCxKtjCBNuh2ywiSHp5/szzETXYZlrFhJfWSZdNIakksfjzMp7CSaWO3eZhpuDOib5qz861A==",
+  "dgSpecHash": "viD4+h8t+KWT8t8iGLoxjrjnLi9lZqUMFJJdSrFr9WeJada+2vGbztWpPWpqHvL+So+2IJHQ4GRt+A6E2RupaA==",
   "success": true,
-  "projectFilePath": "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\BookProject\\BookProject.Data\\BookProject.Data.csproj",
+  "projectFilePath": "D:\\FILENAYCHUAJAVVIDEO4GB\\C sharp\\Vatek\\Day3\\Vatek-.Net\\BookProject\\BookProject.Data\\BookProject.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
